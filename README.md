@@ -22,3 +22,11 @@ tenho 20 anos
 ## meus interesses
 - aprender sobre ** HTML, CSS, JavaScript e ux/ui design
 - praticar projetos e trocar experiências com pessoas da área
+
+- **MEUS HOBBIES
+-  LER LIVROS DE SUSPENSE,ROMANCES
+-  ASSISTIR SÉRIES
+-  OUVIR MUSICAS
+-  
+-  
+ 
