@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># olá, me chamo juliana
-##sobre mim
+##sobre mim##
 sou formada no ensino médio, agora estou cursando análise de desenvolvimentos de sistemas.
 estou começando na área de tecnologia com o objetivo de me tornar desenvolvedora de sites, com foco em  web design
 desenvolvimento front-end e nas experiências dos usuários
@@ -23,10 +23,9 @@ tenho 20 anos
 - aprender sobre ** HTML, CSS, JavaScript e ux/ui design
 - praticar projetos e trocar experiências com pessoas da área
 
-- **MEUS HOBBIES
+- **MEUS HOBBIES**
 -  LER LIVROS DE SUSPENSE,ROMANCES
 -  ASSISTIR SÉRIES
 -  OUVIR MUSICAS
--  
--  
+  
  
