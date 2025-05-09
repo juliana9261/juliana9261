@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## sobre mim ##
 sou formada no ensino médio, agora estou cursando análise de desenvolvimentos de sistemas.
 estou começando na área de tecnologia com o objetivo de me tornar desenvolvedora de sites, com foco em  web design
-desenvolvimento front-end e nas experiências dos usuários
+desenvolvimento front-end e nas experiências dos usuários.
 tenho 20 anos
 ## meus interesses ##
 - aprender sobre ** HTML, CSS, JavaScript e ux/ui design
