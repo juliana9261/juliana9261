@@ -1,31 +1,39 @@
-## Hi there 👋
+# Olá 👋 Eu sou a Juliana
 
-<!--
-**juliana9261/juliana9261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💼 Aprendiz na área de TI atuando com suporte técnico  
+💻 Interessada em desenvolvimento back-end e banco de dados
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># olá, me chamo juliana
-## sobre mim ##
-sou formada no ensino médio, agora estou cursando análise de desenvolvimentos de sistemas.
-estou começando na área de tecnologia com o objetivo de me tornar desenvolvedora de sites, com foco em  web design
-desenvolvimento front-end e nas experiências dos usuários.
-tenho 20 anos
-## meus interesses ##
-- aprender sobre ** HTML, CSS, JavaScript e ux/ui design
-- praticar projetos e trocar experiências com pessoas da área
+## Sobre mim
 
-- ## MEUS HOBBIES ##
--  LER LIVROS DE SUSPENSE,ROMANCES
--  ASSISTIR SÉRIES
--  OUVIR MUSICAS
+Tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas.  
+Atuo como aprendiz na área de TI, trabalhando com suporte técnico e também auxiliando em atividades relacionadas a organização de dados, fluxos e templates utilizados nos sistemas da empresa.
+
+Durante minha formação já tive contato com áreas como desenvolvimento back-end, banco de dados, metodologias ágeis e algoritmos de pesquisa e ordenação.
+
+---
+
+## Tecnologias que já estudei
+
+**Linguagens**
+- PHP
+- Java
+
+**Banco de dados**
+- SQL / Banco de dados
+---
+
+## Tecnologias que estou estudando atualmente
+
+- C#  
+- JavaScript  
+- HTML  
+- CSS  
+
+---
+
+🚧 Atualmente desenvolvendo projetos para fortalecer meu portfólio
   
  
