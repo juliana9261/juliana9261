@@ -1,4 +1,4 @@
-<img width="910" height="625" alt="image" src="https://github.com/user-attachments/assets/c63c4404-d427-4fa9-bc4b-d5cbb3c32df6" /># Olá 👋 Eu sou a Juliana
+# Olá 👋 Eu sou a Juliana
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 💼 Aprendiz na área de TI atuando com suporte técnico  
