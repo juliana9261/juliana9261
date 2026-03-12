@@ -14,7 +14,7 @@ Atuo como aprendiz na área de TI, trabalhando com suporte técnico e também au
 Durante minha formação já tive contato com áreas como desenvolvimento back-end, banco de dados, metodologias ágeis e algoritmos de pesquisa e ordenação.
 
 ---
-## Tecnologias que já estudei 
+
 
 **Linguagens**
 - PHP
