@@ -8,20 +8,23 @@
 
 ## Sobre mim
 
-Tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas.  
-Atuo como aprendiz na área de TI, trabalhando com suporte técnico e também auxiliando em atividades relacionadas a organização de dados, fluxos e templates utilizados nos sistemas da empresa.
+Tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas.
+
+Atuo como aprendiz na área de TI, trabalhando com suporte técnico e também auxiliando em atividades relacionadas **à organização de dados**, fluxos e templates utilizados nos sistemas da empresa.
 
 Durante minha formação já tive contato com áreas como desenvolvimento back-end, banco de dados, metodologias ágeis e algoritmos de pesquisa e ordenação.
 
 ---
 
+## Linguagens
 
-**Linguagens**
-- PHP
-- Java
+- PHP  
+- Java  
 
-**Banco de dados**
+## Banco de dados
+
 - SQL / Banco de dados
+
 ---
 
 ## Tecnologias que estou estudando atualmente
