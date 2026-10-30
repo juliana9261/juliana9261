@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br><br>💼 Aprendiz na área de TI atuando com suporte técnico<br><br>💻 Interessada em desenvolvimento back-end e banco de dados</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninove<br><br>💼 Desenvolvo automações e ferramentas internas que facilitam o dia a dia do time financeiro<br><br>💻 Interessada em back-end, banco de dados e automações que ajudem as pessoas no dia a dia</p>
 
 ###
 
@@ -22,6 +22,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
