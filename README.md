@@ -4,6 +4,14 @@
 
 <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Uninove<br><br>💼 Desenvolvo automações e ferramentas internas que facilitam o dia a dia do time financeiro<br><br>💻 Interessada em back-end, banco de dados e automações que ajudem as pessoas no dia a dia</p>
 
+<p align="left">
+
+[![Converse com o meu Jarvis](https://img.shields.io/badge/🤖_Converse_com_o_meu_Jarvis-e0b44c?style=for-the-badge)](https://jarvis-juliana.onrender.com)
+
+Ele responde sobre mim e meus projetos, com voz e humor de Homem de Ferro (pode levar uns 50 segundos para acordar).
+
+</p>
+
 ###
 
 <div align="left">
